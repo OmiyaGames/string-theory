@@ -1,0 +1,8 @@
+--- Animation.meta
++++ Animation.meta
+@@ -0,0 +1,5 @@
++fileFormatVersion: 2
++guid: f951ab2a686b01441ab8137550e5b2f2
++folderAsset: yes
++DefaultImporter:
++  userData: 

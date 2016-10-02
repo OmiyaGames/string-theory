@@ -1,0 +1,8 @@
+--- Character.meta
++++ Character.meta
+@@ -0,0 +1,5 @@
++fileFormatVersion: 2
++guid: 2553e4a4e3fbece40b9267289b138e5c
++folderAsset: yes
++DefaultImporter:
++  userData: 

@@ -1,0 +1,8 @@
+--- First Person Character.meta
++++ First Person Character.meta
+@@ -0,0 +1,5 @@
++fileFormatVersion: 2
++guid: d44988ea75c43de46a2044c25bd27d63
++folderAsset: yes
++DefaultImporter:
++  userData: 

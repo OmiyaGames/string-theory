@@ -1,0 +1,8 @@
+--- Cameras.meta
++++ Cameras.meta
+@@ -0,0 +1,5 @@
++fileFormatVersion: 2
++guid: d7ec9a902cc53324aa16606ad123e2d0
++folderAsset: yes
++DefaultImporter:
++  userData: 
