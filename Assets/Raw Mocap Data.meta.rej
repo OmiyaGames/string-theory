@@ -1,0 +1,8 @@
+--- Raw Mocap Data.meta
++++ Raw Mocap Data.meta
+@@ -0,0 +1,5 @@
++fileFormatVersion: 2
++guid: 4ed937ce411c1624fa70c8bf1819e00c
++folderAsset: yes
++DefaultImporter:
++  userData: 

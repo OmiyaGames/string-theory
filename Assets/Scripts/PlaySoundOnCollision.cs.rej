@@ -1,0 +1,15 @@
+--- PlaySoundOnCollision.cs
++++ PlaySoundOnCollision.cs
+@@ -0,0 +1,12 @@
++﻿using UnityEngine;
++using System.Collections;
++
++[RequireComponent(typeof(AudioSource))]
++public class PlaySoundOnCollision : MonoBehaviour
++{
++	void OnCollisionEnter()
++	{
++		audio.Stop();
++		audio.Play();
++	}
++}
