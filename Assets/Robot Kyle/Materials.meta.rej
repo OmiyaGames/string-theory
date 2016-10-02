@@ -1,0 +1,8 @@
+--- Materials.meta
++++ Materials.meta
+@@ -0,0 +1,5 @@
++fileFormatVersion: 2
++guid: 9c6809dc97e14184e8f21cec852c61ae
++folderAsset: yes
++DefaultImporter:
++  userData: 
