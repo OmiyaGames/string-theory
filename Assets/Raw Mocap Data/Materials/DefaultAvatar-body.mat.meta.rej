@@ -1,0 +1,7 @@
+--- DefaultAvatar-body.mat.meta
++++ DefaultAvatar-body.mat.meta
+@@ -0,0 +1,4 @@
++fileFormatVersion: 2
++guid: c46b61d8956ccde45ae8a78ee57c2739
++NativeFormatImporter:
++  userData: 
