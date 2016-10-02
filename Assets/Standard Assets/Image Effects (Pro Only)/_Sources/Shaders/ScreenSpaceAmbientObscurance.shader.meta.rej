@@ -1,0 +1,8 @@
+--- ScreenSpaceAmbientObscurance.shader.meta
++++ ScreenSpaceAmbientObscurance.shader.meta
+@@ -0,0 +1,5 @@
++fileFormatVersion: 2
++guid: 95616c020c5604dda96cf76afbbc0272
++ShaderImporter:
++  defaultTextures: []
++  userData: 
