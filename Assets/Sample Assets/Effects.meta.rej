@@ -1,8 +1,0 @@
---- Effects.meta
-+++ Effects.meta
-@@ -0,0 +1,5 @@
-+fileFormatVersion: 2
-+guid: 63304fbf2efcf274fab60f3f776e74ac
-+folderAsset: yes
-+DefaultImporter:
-+  userData: 

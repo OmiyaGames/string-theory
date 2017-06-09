@@ -1,8 +1,0 @@
---- Image Effects.meta
-+++ Image Effects.meta
-@@ -0,0 +1,5 @@
-+fileFormatVersion: 2
-+guid: 8eb9dc0fbcdb5ae41a43e9c094084221
-+folderAsset: yes
-+DefaultImporter:
-+  userData: 

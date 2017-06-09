@@ -1,8 +1,0 @@
---- scripts.meta
-+++ scripts.meta
-@@ -0,0 +1,5 @@
-+fileFormatVersion: 2
-+guid: 38eab13dfdb83cf4b83b7185d12b7903
-+folderAsset: yes
-+DefaultImporter:
-+  userData: 

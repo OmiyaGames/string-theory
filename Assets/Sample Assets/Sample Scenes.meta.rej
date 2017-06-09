@@ -1,8 +1,0 @@
---- Sample Scenes.meta
-+++ Sample Scenes.meta
-@@ -0,0 +1,5 @@
-+fileFormatVersion: 2
-+guid: 2f00c7dd9ce4e394a9379b5c558b0ab3
-+folderAsset: yes
-+DefaultImporter:
-+  userData: 

@@ -1,8 +1,0 @@
---- Cross Platform Input.meta
-+++ Cross Platform Input.meta
-@@ -0,0 +1,5 @@
-+fileFormatVersion: 2
-+guid: f3d4849b8c7a56746bc67c928e4afa42
-+folderAsset: yes
-+DefaultImporter:
-+  userData: 
