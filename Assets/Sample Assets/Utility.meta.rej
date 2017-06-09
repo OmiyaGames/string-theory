@@ -1,8 +1,0 @@
---- Utility.meta
-+++ Utility.meta
-@@ -0,0 +1,5 @@
-+fileFormatVersion: 2
-+guid: 0a9152e6a347c0d4f9c86f06bbaf5466
-+folderAsset: yes
-+DefaultImporter:
-+  userData: 
